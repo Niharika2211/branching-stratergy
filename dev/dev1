@@ -1,2 +1,3 @@
 ansible has collections and modules
 shell module and command module to execute command in our playbook
+ansible is a configuration tool
