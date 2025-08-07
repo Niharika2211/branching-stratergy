@@ -9,10 +9,6 @@ terraform
 aws
 docker
 kubernetes
-<<<<<<< HEAD
 git
 eks
 ecs
-=======
-git
->>>>>>> ca694de (added 3 lines)
