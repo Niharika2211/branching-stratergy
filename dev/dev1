@@ -1,0 +1,4 @@
+ansible has collections and modules
+shell module and command module to execute command in our playbook
+ansible is a configuration tool
+ansible has variable precendence and default varibale has least preference
