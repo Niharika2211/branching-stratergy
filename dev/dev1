@@ -8,3 +8,5 @@ ansible
 terraform
 aws
 docker
+kubernetes
+git
