@@ -12,3 +12,5 @@ kubernetes
 git
 eks
 ecs
+prometheus
+graphana
