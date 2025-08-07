@@ -6,3 +6,4 @@ ansible has variable precendence and default varibale has least preference
 we have prepare in a order 
 ansible 
 terraform
+aws
